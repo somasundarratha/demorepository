@@ -1,0 +1,6 @@
+this is version 1 of my project
+i want go into commit 2 master
+changed by som
+this is changed now
+jhhgkhgk
+this is from master
